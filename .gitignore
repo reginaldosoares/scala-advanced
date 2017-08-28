@@ -38,6 +38,7 @@ project/plugins/project/
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
+.idea/modules.xml
 
 # Gradle:
 .idea/gradle.xml
@@ -71,3 +72,5 @@ fabric.properties
 
 # *.iml
 # modules.xml
+
+.idea/scala_compiler.xml
