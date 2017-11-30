@@ -18,7 +18,9 @@ val mixedItems: List[Any] = List (
 )
 
 
-val tp = ("Str Item", 1,2,List(1,3,5))
+val someItens = List("s")
+
+val tp: (String, Int, Int, List[Int]) = ("Str Item", 1,2,List(1,3,5))
 
 
 
